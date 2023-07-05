@@ -1,5 +1,5 @@
-const correctEmail = "ayy@gmail.com";
-const correctPassword = "060704";
+const correctEmail = "malfoy@gmail.com";
+const correctPassword = "pottah";
 
 const messageContainer = document.getElementById("message-container");
 
